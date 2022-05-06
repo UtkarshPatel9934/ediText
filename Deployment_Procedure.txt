@@ -1,0 +1,13 @@
+1. "homepage": "https://myusername.github.io/my-app", paste this line in the Src/package.json file.
+
+2. npm install --save gh-pages 
+use this cmd in the terminal
+
+3. "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
+
+add this line in the Script section of Src/package.json file.
+
+
+4. npm run deploy 
+fnally run this app in the Cmd
