@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ediText/static/css/main.073c9b0a.css",
+    "main.js": "/ediText/static/js/main.cb93a469.js",
+    "static/js/787.0140f50a.chunk.js": "/ediText/static/js/787.0140f50a.chunk.js",
+    "static/media/logo.svg": "/ediText/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ediText/index.html",
+    "main.073c9b0a.css.map": "/ediText/static/css/main.073c9b0a.css.map",
+    "main.cb93a469.js.map": "/ediText/static/js/main.cb93a469.js.map",
+    "787.0140f50a.chunk.js.map": "/ediText/static/js/787.0140f50a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cb93a469.js"
+  ]
+}
